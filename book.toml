@@ -4,7 +4,7 @@ language = "en"
 src = "src"
 title = "Of the Nature of Things"
 [output.html]
-additional-css = []
+theme = "src"
 
 
 
