@@ -4,7 +4,8 @@ language = "en"
 src = "src"
 title = "Of the Nature of Things"
 [output.html]
-git-repository-url = "https://github.com/filosofia-errante/lucretius-de-rerum-natura"
+additional-css = []
+
 
 
 
